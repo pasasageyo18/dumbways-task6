@@ -107,7 +107,6 @@ textarea {
 }
 
 .button-group-submit button {
-  align-self: self-end;
   width: 30%;
   margin-top: 20px;
   padding: 10px 50px;
